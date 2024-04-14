@@ -1,1 +1,1 @@
-# Belajar teknik CI/CD untuk Movie Catalogue di Dicoding Indonesia
+# Belajar teknik CI / CD untuk Movie Catalogue di Dicoding Indonesia
